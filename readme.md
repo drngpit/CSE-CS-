@@ -18,8 +18,8 @@
 | 3 | [Obstacles Avoiding Car](https://github.com/drngpit/obstacles-avoiding-car) | IoT | ![C](https://img.shields.io/badge/C-grey?logo=C&logoColor=ffffff) |
 
 ## Leetcode Tracker
-1. [Batch 2023 - 2027](https://github.com/drngpit/CSE-CS-/blob/main/profile/2023-2027.md)
+1. [Batch 2023 - 2027](https://github.com/drngpit/CSE-CS-/blob/main/2023-2027.md)
 
-2. [Batch 2024 - 2028](https://github.com/drngpit/CSE-CS-/blob/main/profile/2024-2028.md)
+2. [Batch 2024 - 2028](https://github.com/drngpit/CSE-CS-/blob/main/2024-2028.md)
 
 ###### Managed by [Saran K](https://sarankanakavel.me)
